@@ -1,6 +1,6 @@
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/11-dnaR6KsuBm-TA2K9aGa792nJFRAQaS/view?usp=drive_link)
+![App Screenshot](https://asset.cloudinary.com/dwixogzud/8c4ada187d553ebe5739c03a27559dfc)
 
 ![App Screenshot](https://drive.google.com/file/d/1tvQxm2cRzhT7egtIpl6MLPUDpKlGCZSY/view?usp=drive_link)
 
